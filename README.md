@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stephen-Zulauf
-- 📫 How to reach me stephen.zulauf@wsu.edu
+- 📫 How to reach me zulaufs@oregonstate.edu
 - https://behova.net/
 - https://github.com/behova (old alt)
 
